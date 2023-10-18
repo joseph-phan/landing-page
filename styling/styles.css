@@ -25,8 +25,12 @@
 .big-title {
     font-size: 48px;
     font-weight: bolder;
+    color: #f9faf8;
+    margin: 0%;
+    padding: 0%;
 }
 
 .subtext {
-    
+    font-size: 18px;
+    color:#f9faf8;
 }
