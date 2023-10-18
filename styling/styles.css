@@ -5,7 +5,7 @@
 
 .right-side {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     margin-left: auto;
     padding: 25px;
 }
@@ -24,6 +24,7 @@
 
 .mid-header {
     border: 3px solid green;
+    padding-left: 250px;
 }
 
 .big-title {
