@@ -5,3 +5,14 @@
 ul {
     list-style-type: none;
 }
+
+.right-side {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.left-side {
+    display: flex;
+    justify-content: flex-start;
+}
