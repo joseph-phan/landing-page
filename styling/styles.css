@@ -22,15 +22,31 @@
     margin: 15px;
 }
 
+.mid-header {
+    border: 3px solid green;
+}
+
 .big-title {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
-    margin: 0%;
-    padding: 0%;
+    margin-bottom: 0px;
 }
 
 .subtext {
     font-size: 18px;
     color:#f9faf8;
+    margin-top: 0px;
+    display: flex;
+    align-items: flex-start
+}
+
+.signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: large;
+    width: 122px;
+    height: 42px;
+    border-radius: 15px;
 }
