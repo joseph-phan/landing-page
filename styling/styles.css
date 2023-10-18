@@ -21,3 +21,12 @@
     justify-content: flex-start;
     margin: 15px;
 }
+
+.big-title {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.subtext {
+    
+}
