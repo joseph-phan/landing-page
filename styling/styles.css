@@ -5,13 +5,18 @@
 
 .right-side {
     display: flex;
-    justify-content: flex-end;
     align-items: flex-start;
     margin-left: auto;
     padding: 25px;
 }
 
+.two,
+.three {
+    margin-left: 10px;
+}
+
 .left-side {
+    border: 3px solid red;
     display: flex;
     justify-content: flex-start;
     margin: 15px;
