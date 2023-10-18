@@ -1,18 +1,18 @@
 .header-container {
     background: #1f2937;
-}
-
-ul {
-    list-style-type: none;
+    color: white;
 }
 
 .right-side {
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
+    margin-left: auto;
+    padding: 25px;
 }
 
 .left-side {
     display: flex;
     justify-content: flex-start;
+    margin: 15px;
 }
