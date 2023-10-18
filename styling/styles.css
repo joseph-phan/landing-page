@@ -38,7 +38,9 @@
     color:#f9faf8;
     margin-top: 0px;
     display: flex;
-    align-items: flex-start
+    align-items: flex-start;
+    word-wrap: normal;
+    width: 500px;
 }
 
 .signup {
