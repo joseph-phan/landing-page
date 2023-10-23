@@ -129,6 +129,7 @@ img {
     display: flex;
     justify-content: center;
     align-self: flex-start;
+    padding-left: 300px;
 }
 
 .product {
@@ -137,6 +138,7 @@ img {
     align-self: flex-start;
     font-weight: lighter;
     font-size: 20px;
+    padding-left: 300px;
 }
 
 .work {
@@ -148,5 +150,6 @@ img {
     height: 42px;
     border-radius: 15px;
     border: white solid 3px;
-    margin-left: 1100px;
+    display: flex;
+    justify-content: flex-end;
 }
