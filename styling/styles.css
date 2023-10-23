@@ -71,3 +71,12 @@
     font-size: 36px;
     font-weight: bolder;
 }
+
+.info-container {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    
+}
