@@ -17,7 +17,6 @@
 }
 
 .left-side {
-    border: 3px solid red;
     display: flex;
     justify-content: flex-start;
     margin: 15px;
@@ -25,7 +24,6 @@
 }
 
 .mid-header {
-    border: 3px solid green;
     padding-left: 250px;
     height: 500px;
 }
@@ -34,7 +32,7 @@
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     word-wrap: wrap;
     width: 400px;
 }
@@ -47,6 +45,7 @@
     align-items: flex-start;
     word-wrap: normal;
     width: 400px;
+    margin-bottom: 10px;
 }
 
 .signup {
