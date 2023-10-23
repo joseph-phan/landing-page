@@ -78,5 +78,13 @@
 }
 
 .info {
-    
+    margin: 30px;
+    text-align: center;
+    text-wrap: wrap;
+    max-width: 150px;
+}
+
+.info-box {
+    border: solid blue 3px;
+    border-radius: 25px;
 }
