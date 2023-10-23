@@ -116,9 +116,37 @@ img {
 .call-to-action {
     background-color: #3882f6;
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 50px;
+    margin: 150px;
     font-weight: bold;
     font-size: 30px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.calling {
+    display: flex;
+    justify-content: center;
+    align-self: flex-start;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    align-self: flex-start;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.work {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: large;
+    width: 122px;
+    height: 42px;
+    border-radius: 15px;
+    border: white solid 3px;
+    margin-left: 1100px;
 }
