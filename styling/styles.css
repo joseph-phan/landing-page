@@ -8,6 +8,7 @@
     align-items: center;
     margin-left: auto;
     padding: 25px;
+    padding-right: 250px;
 }
 
 .two,
@@ -20,11 +21,13 @@
     display: flex;
     justify-content: flex-start;
     margin: 15px;
+    padding-left: 240px;
 }
 
 .mid-header {
     border: 3px solid green;
     padding-left: 250px;
+    height: 500px;
 }
 
 .big-title {
@@ -32,6 +35,8 @@
     font-weight: bolder;
     color: #f9faf8;
     margin-bottom: 0px;
+    word-wrap: wrap;
+    width: 400px;
 }
 
 .subtext {
@@ -41,7 +46,7 @@
     display: flex;
     align-items: flex-start;
     word-wrap: normal;
-    width: 500px;
+    width: 400px;
 }
 
 .signup {
@@ -52,4 +57,12 @@
     width: 122px;
     height: 42px;
     border-radius: 15px;
+}
+
+.big-picture {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 250px;
+    margin: 0;
+
 }
