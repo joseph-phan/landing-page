@@ -113,17 +113,26 @@ img {
 }
 
 .call-to-action {
-    background-color: #3882f6;
-    color: white;
-    font-weight: bold;
-    font-size: 30px;
-    border-radius: 25px;
-    margin: 100px auto;
-    gap: 32px;
     padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 40px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.calling {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .product {
