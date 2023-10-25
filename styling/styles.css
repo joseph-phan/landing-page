@@ -149,7 +149,9 @@ img {
     width: 122px;
     height: 42px;
     border-radius: 15px;
-    border: white solid 3px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px;
+    border: white solid 3px;
 }
